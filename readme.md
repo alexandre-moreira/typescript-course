@@ -21,3 +21,5 @@
             - "start": "npx tsc && node build/index.js"
         - Executar o comando no terminal
             - npm run start
+## Aula 03 - Tipos no Typescript
+    [x] Trabalhando com tipos de variáveis
