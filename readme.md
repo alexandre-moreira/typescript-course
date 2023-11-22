@@ -29,3 +29,8 @@
     [x] Trabalhando com Tuplas
     [x] Reaproveitando conhecimentos de Javascript
     [x] Trabalhando com Datas
+
+## Aula 04 - Funcoes
+    [x] Funcoes
+    [x] Funcoes com multiplos tipos
+    [x] Funcoes Async
