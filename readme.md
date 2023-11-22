@@ -23,3 +23,4 @@
             - npm run start
 ## Aula 03 - Tipos no Typescript
     [x] Trabalhando com tipos de variáveis
+    [x] Trabalhando com objects
