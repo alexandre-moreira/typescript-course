@@ -16,4 +16,24 @@ let indefinido: undefined = undefined;
 let retornoView:any = false;
 let retorno:void;
 
+//objeto - sem previsibilidade
+let produto: object = {
+    name: "Alex",
+    cidade: "Sao Paulo",
+    idade: 30
+}
 
+//objeto tipado - com previsibilidade
+
+type ProdutoLoja = {
+    nome: string;
+    preco: number;
+    unidades: number;
+
+}
+
+let meuProduto: ProdutoLoja = {
+    nome: "Sapato",
+    preco: 89.99,
+    unidades: 5
+}
