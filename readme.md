@@ -24,3 +24,8 @@
 ## Aula 03 - Tipos no Typescript
     [x] Trabalhando com tipos de variáveis
     [x] Trabalhando com objects
+    [x] Trabalhando com arrays
+    [x] Trabalhando com arrays de multiplos tipos
+    [x] Trabalhando com Tuplas
+    [x] Reaproveitando conhecimentos de Javascript
+    [x] Trabalhando com Datas
