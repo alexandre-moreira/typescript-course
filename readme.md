@@ -34,3 +34,8 @@
     [x] Funcoes
     [x] Funcoes com multiplos tipos
     [x] Funcoes Async
+
+## Aula 05 - Interfaces
+    [x] Interfaces e comparacao com type
+    [x] Quando usar interfaces
+    [x] Como o JS lida com interfaces ou types?
